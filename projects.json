@@ -1,18 +1,72 @@
 {
-  "total_projects": 151,
   "last_updated": "2022-07-01T07:36:16Z",
   "projects": [
-   {
-      "name": "Finite Field Operations on GPGPU ",
-      "date_created": "2022-01-07",
+  {
+      "name": "blake3",
+      "date_created": "2022-01-17",
+      "url": "https://github.com/itzmeanjan/blake3",
+      "type": "unspecified",
+      "short_description": "SYCL accelerated BLAKE3 Hash Implementation",
+      "owner": {
+        "name": "itzmeanjan",
+        "url": "https://github.com/itzmeanjan"
+      }
+  },
+  {
+      "name": "ff-p-bench",
+      "date_created": "2022-01-17",
+      "url": "https://github.com/itzmeanjan/ff-p-bench",
+      "type": "unspecified",
+      "short_description": "Finite Field Arithmetic Benchmarking on Accelerators, using SYCL",
+      "owner": {
+        "name": "itzmeanjan",
+        "url": "https://github.com/itzmeanjan"
+      }
+  },
+  {
+      "name": "ff-gpu",
+      "date_created": "2022-01-17",
       "url": "https://github.com/itzmeanjan/ff-gpu",
       "type": "unspecified",
       "short_description": "Finite Field Operations on GPGPU",
       "owner": {
         "name": "itzmeanjan",
-        "url": "https://github.com/itzmeanjan/ff-gpu"
+        "url": "https://github.com/itzmeanjan"
       }
-    },
+  },
+  {
+      "name": "devito",
+      "date_created": "2022-01-17",
+      "url": "https://github.com/devitocodes/devito",
+      "type": "unspecified",
+      "short_description": "Code generation framework for automated finite difference computation ",
+      "owner": {
+        "name": "FabioLuporini",
+        "url": "https://github.com/FabioLuporini"
+      }
+  },
+  {
+      "name": "RAJA",
+      "date_created": "2022-01-17",
+      "url": "https://github.com/LLNL/RAJA",
+      "type": "unspecified",
+      "short_description": "AJA Performance Portability Layer (C++) ",
+      "owner": {
+        "name": "LLNL",
+        "url": "https://github.com/LLNL"
+      }
+  },
+  {
+     "name": "Finite Field Operations on GPGPU ",
+     "date_created": "2022-01-07",
+     "url": "https://github.com/itzmeanjan/ff-gpu",
+     "type": "unspecified",
+     "short_description": "Finite Field Operations on GPGPU",
+     "owner": {
+       "name": "itzmeanjan",
+       "url": "https://github.com/itzmeanjan/ff-gpu"
+      }
+   },
    {
       "name": "Boids Simulation",
       "date_created": "2021-12-05",
