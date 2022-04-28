@@ -50,7 +50,7 @@
       "date_created": "2022-01-17",
       "url": "https://github.com/LLNL/RAJA",
       "type": "unspecified",
-      "short_description": "AJA Performance Portability Layer (C++) ",
+      "short_description": "RAJA Performance Portability Layer (C++) ",
       "owner": {
         "name": "LLNL",
         "url": "https://github.com/LLNL"
